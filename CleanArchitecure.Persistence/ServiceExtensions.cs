@@ -4,11 +4,6 @@ using CleanArchitecure.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CleanArchitecure.Persistence
 {
@@ -19,7 +14,7 @@ namespace CleanArchitecure.Persistence
             var connectionString = configuration.GetConnectionString("Sqlite");
             services.AddDbContext<AppDbContext>(opt => opt.UseSqlite(connectionString));
 
-            services.AddScoped<IUnitOfWork, IUnitOfWork>();
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IUserRepository, UserRepository>();
         }
     }

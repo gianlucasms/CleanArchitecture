@@ -1,0 +1,15 @@
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Application.deps.json
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecure.Domain.dll
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\bin\Debug\net7.0\CleanArchitecure.Domain.pdb
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.AssemblyInfo.cs
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.csproj.CopyComplete
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\refint\CleanArchitecture.Application.dll
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecture.Application\obj\Debug\net7.0\ref\CleanArchitecture.Application.dll
