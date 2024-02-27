@@ -1,4 +1,4 @@
-﻿using CleanArchitecure.Domain.Entities;
+﻿using CleanArchitecure.Domain.Common;
 
 namespace CleanArchitecure.Domain.Interfaces
 {

@@ -1,4 +1,4 @@
-﻿using CleanArchitecure.Domain.Entities;
+﻿using CleanArchitecure.Domain.Common;
 using CleanArchitecure.Domain.Interfaces;
 using CleanArchitecure.Persistence.Context;
 using Microsoft.EntityFrameworkCore;
@@ -13,6 +13,7 @@ namespace CleanArchitecure.Persistence.Repositories
         {
             Context = context;
         }
+
         public void Create(T entity)
         {
             entity.DateCreated = DateTimeOffset.UtcNow;
@@ -21,7 +22,7 @@ namespace CleanArchitecure.Persistence.Repositories
 
         public void Delete(T entity)
         {
-            entity.DateDelete = DateTimeOffset.UtcNow;
+            entity.DateDeleted = DateTimeOffset.UtcNow;
             Context.Remove(entity);
         }
 
@@ -30,9 +31,9 @@ namespace CleanArchitecure.Persistence.Repositories
             return await Context.Set<T>().FirstOrDefaultAsync(x => x.Id == id, cancellationToken);
         }
 
-        public Task<List<T>> GetAllAsync(CancellationToken cancellationToken)
+        public async Task<List<T>> GetAllAsync(CancellationToken cancellationToken)
         {
-            throw new NotImplementedException();
+            return await Context.Set<T>().ToListAsync(cancellationToken);
         }
 
         public void Update(T entity)

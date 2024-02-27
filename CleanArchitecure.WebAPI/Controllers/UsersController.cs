@@ -23,7 +23,7 @@ namespace CleanArchitecure.WebAPI.Controllers
             var validator = new CreateUserValidator();
             var validationResult = await validator.ValidateAsync(request);
 
-            if (validationResult.IsValid)
+            if (!validationResult.IsValid)
             {
                 return BadRequest(validationResult.Errors);
             }
