@@ -1,0 +1,17 @@
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.deps.json
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Persistence.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Application.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.AssemblyReference.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.csproj.CopyComplete
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\refint\CleanArchitecture.Persistence.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\CleanArchitecture.Persistence.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Persistence\obj\Debug\net7.0\ref\CleanArchitecture.Persistence.dll

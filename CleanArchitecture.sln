@@ -7,15 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{8F9D03D5-9
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Application", "CleanArchitecture.Application\CleanArchitecture.Application.csproj", "{96BF4246-3542-4F2B-870D-E223CD83A9BB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecure.Domain", "CleanArchitecure.Domain\CleanArchitecure.Domain.csproj", "{44C5B046-3E40-4EE1-B442-5C337C496615}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Domain", "CleanArchitecure.Domain\CleanArchitecture.Domain.csproj", "{44C5B046-3E40-4EE1-B442-5C337C496615}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{FB08CEDA-F520-49B8-81F3-827A675BD552}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecure.Persistence", "CleanArchitecure.Persistence\CleanArchitecure.Persistence.csproj", "{33999684-D31C-4140-9BF4-4411B28D14CC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.Persistence", "CleanArchitecure.Persistence\CleanArchitecture.Persistence.csproj", "{33999684-D31C-4140-9BF4-4411B28D14CC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7A66211D-67C2-4DF8-99BA-042C896647F6}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecure.WebAPI", "CleanArchitecure.WebAPI\CleanArchitecure.WebAPI.csproj", "{8BF3E958-54A9-4736-9612-29E53371A963}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitecture.WebAPI", "CleanArchitecure.WebAPI\CleanArchitecture.WebAPI.csproj", "{8BF3E958-54A9-4736-9612-29E53371A963}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{BF891C96-561A-4A93-BFF5-6675326D2C79}"
 EndProject

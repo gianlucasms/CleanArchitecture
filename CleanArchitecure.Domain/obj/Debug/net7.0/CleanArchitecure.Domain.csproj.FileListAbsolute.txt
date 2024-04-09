@@ -10,3 +10,15 @@ C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\
 C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\refint\CleanArchitecure.Domain.dll
 C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.pdb
 C:\Users\gianl\source\repos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\ref\CleanArchitecure.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net7.0\CleanArchitecure.Domain.deps.json
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net7.0\CleanArchitecure.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net7.0\CleanArchitecure.Domain.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.csproj.AssemblyReference.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\refint\CleanArchitecure.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecure.Domain.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\ref\CleanArchitecure.Domain.dll

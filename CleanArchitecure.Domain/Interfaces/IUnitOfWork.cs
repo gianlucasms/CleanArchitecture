@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿namespace CleanArchitecure.Domain.Interfaces;
 
-namespace CleanArchitecure.Domain.Interfaces
+public interface IUnitOfWork
 {
-    public interface IUnitOfWork
-    {
-        Task CommitAsync(CancellationToken cancellationToken);
-    }
+    Task CommitAsync(CancellationToken cancellationToken);
 }
+
+

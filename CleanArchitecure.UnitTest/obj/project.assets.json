@@ -6121,11 +6121,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.UnitTest\\CleanArchitecure.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.UnitTest\\CleanArchitecure.UnitTest.csproj",
       "projectName": "CleanArchitecure.UnitTest",
-      "projectPath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.UnitTest\\CleanArchitecure.UnitTest.csproj",
+      "projectPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.UnitTest\\CleanArchitecure.UnitTest.csproj",
       "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj",
-      "projectName": "CleanArchitecure.Domain",
-      "projectPath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecture.Domain.csproj",
+      "projectName": "CleanArchitecture.Domain",
+      "projectPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecture.Domain.csproj",
       "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\obj\\",
+      "outputPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

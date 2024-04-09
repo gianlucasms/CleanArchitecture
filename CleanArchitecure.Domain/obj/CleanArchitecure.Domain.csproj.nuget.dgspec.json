@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj": {}
+    "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj": {
+    "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj",
         "projectName": "CleanArchitecure.Domain",
-        "projectPath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj",
+        "projectPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\CleanArchitecure.Domain.csproj",
         "packagesPath": "C:\\Users\\gianl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Domain\\obj\\",
+        "outputPath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

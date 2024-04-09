@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lmMtd7DhWSkjyUbTd8aTUPfUnbYmJn8n/St9vprG7k6puv2Rv323bekuMtfISildAe0EJRKKQMnnjgtD0T+XJw==",
+  "dgSpecHash": "gHLtpWhjI/TM03nsJeeKCL21of+xiS0j5ChqyS234XNIg9BuP0rj+f+n6+VtBL9j+NDspeFbqyYulavDxZPA8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
+  "projectFilePath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gianl\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gianl\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

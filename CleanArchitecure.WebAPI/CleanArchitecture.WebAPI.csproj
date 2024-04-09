@@ -12,7 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CleanArchitecure.Persistence\CleanArchitecure.Persistence.csproj" />
+    <ProjectReference Include="..\CleanArchitecure.Persistence\CleanArchitecture.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

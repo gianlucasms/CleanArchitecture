@@ -1,0 +1,12 @@
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.deps.json
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\bin\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.AssemblyReference.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.AssemblyInfo.cs
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\refint\CleanArchitecture.Domain.dll
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\CleanArchitecture.Domain.pdb
+C:\Users\gianl\OneDrive\Documentos\CleanArchitecture\CleanArchitecure.Domain\obj\Debug\net7.0\ref\CleanArchitecture.Domain.dll

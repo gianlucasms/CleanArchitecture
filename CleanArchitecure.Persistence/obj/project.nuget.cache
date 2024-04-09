@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LSiPUZCcKxxGznu6g/Z02NrerKBg5ScRmFP0sYpbJCcKFFbG78CmyYRfD+FM3WAfKxU7rSEmZh6JKz6iwxNcLQ==",
+  "dgSpecHash": "9OSvDNVoVfuH7Jrku89N5TDcIW7+i8rD0ntcNB6vlYm30SjptXd1Pk7nqq+lBMllV9QSFAD6+xiUZAvnVZdFqw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gianl\\source\\repos\\CleanArchitecture\\CleanArchitecure.Persistence\\CleanArchitecure.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\gianl\\OneDrive\\Documentos\\CleanArchitecture\\CleanArchitecure.Persistence\\CleanArchitecture.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gianl\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gianl\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
